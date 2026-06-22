@@ -16,7 +16,7 @@
   <a href="mailto:sanjana.s.soma@gmail.com">
     <img src="https://img.shields.io/badge/Email--_.svg?style=flat&logo=gmail&colorB=D14836" alt="Email" />
   </a>
-  <a href="[https://sanjanasoma11.github.io](https://sanjanasoma11.github.io)" target="_blank">
+  <a href="https://sanjanasoma11.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio--_.svg?style=flat&logo=google-chrome&colorB=blue" alt="Website" />
   </a>
 </p>
