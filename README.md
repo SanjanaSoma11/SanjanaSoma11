@@ -1,4 +1,3 @@
-## Hi there 👋
 # 💫 About Me:
 💼 Currently building production-grade AI tools - an LLM cold-email generator with model routing, and a RAG pipeline for document summarization with citation-grounding to prevent hallucination.<br><br>🎓 MS in Computer Science from Arizona State University (4.0 GPA), with research in long-context reasoning failures in LLMs.<br><br>🌱 Previously Software Developer at Vibho Technologies and Software Engineer at Mindgraph Technologies, working on scalable web apps and data pipelines processing 90M+ records.<br><br>💬 I work across FastAPI, ReactJS, Groq/Claude APIs, RAG pipelines, and LLM evaluation - focused on reliability and cost awareness, not just getting a demo working.<br><br>🌍 Open to Applied AI Engineer roles in the US.
 
